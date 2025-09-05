@@ -10,6 +10,7 @@ Always excited, always curious 🚀
 - Undergraduate researcher @PAI Lab | 07.2024 -Present
 - Intern @BFactory | 06.2025 - 08.2025
 - Part time intern @BMSMILE | 09.2025 - Present
+- Prometheus AI Community | 02.2024 - 08.2025
 
 ### Visit these links!
 [![CV](https://img.shields.io/badge/CV-skyblue?style=for-the-badge)](https://github.com/JuneJe0n/JuneJe0n/blob/main/files/v3_website_250905.pdf)
