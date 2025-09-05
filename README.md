@@ -4,6 +4,6 @@
 - Undergraduate researcher @PAI Lab<br>
 - Part time intern @BMSMILE<br>
 
-### Research Interest 
+### Current Interest 
 - Generative models (diffusion based, MLLMs)
 - ID preservation 
