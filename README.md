@@ -5,8 +5,8 @@
 - Part time intern @BMSMILE<br>
 
 ### Current Interest 
-- Generative models (diffusion based, MLLMs)
-- ID preservation <br>
+- Diffusion based image generation
+- ID preservation<br>
 
 ### Visit these links!
 [![CV](https://img.shields.io/badge/CV-skyblue?style=for-the-badge)](https://github.com/JuneJe0n/JuneJe0n/blob/main/files/v3_website_250905.pdf)
