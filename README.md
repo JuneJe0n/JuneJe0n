@@ -1,8 +1,9 @@
 ### Jiyoon Jeon 🐶
 
-- B.S in Artificial Intelligence @EWHA Womans University<br>
-- Undergraduate researcher @PAI Lab<br>
-- Part time intern @BMSMILE<br>
+- B.S in Artificial Intelligence @EWHA Womans University | 03.2023 - Present 
+- Undergraduate researcher @PAI Lab | 07.2024 -Present
+- Intern @BFactory | 06.2025 - 08.2025
+- Part time intern @BMSMILE | 09.2025 - Present
 
 ### Current Interest 
 - Diffusion based image generation
