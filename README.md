@@ -8,8 +8,8 @@ Always excited, always curious 🚀
 ### Experience
 - B.S in Artificial Intelligence @EWHA Womans University | 03.2023 - Present 
 - Undergraduate researcher @PAI Lab | 07.2024 -Present
-- Intern @BFactory | 06.2025 - 08.2025
 - Part time intern @BMSMILE | 09.2025 - Present
+- Intern @BFactory | 06.2025 - 08.2025
 - Prometheus AI Community | 02.2024 - 08.2025
 
 ### Visit these links!
