@@ -1,7 +1,7 @@
 ## Jiyoon Jeon 
 
 Hi! I’m **Jiyoon Jeon** ✨<br>
-AI student, researcher, explorer.  
+AI student, researcher, and explorer.  
 Currently diving deep into **generative models & ID preservation**.<br>
 Always excited, always curious 🚀  
 
