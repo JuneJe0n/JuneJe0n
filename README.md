@@ -2,7 +2,7 @@
 B.S. in Artificial Intelligence @EWHA Womans University<br>
 Always excited, always curious 🚀  
 
-<h3>Current Interst</h3>
+<h3>Current Interest</h3>
 
 - Generative AI
 - ID preservation
