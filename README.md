@@ -1,16 +1,4 @@
 <h2>Jiyoon Jeon</h2> 
-B.S. in Artificial Intelligence @EWHA Womans University<br>
-Always excited, always curious 🚀  
-
-<h3>Current Interest</h3>
-
-- Generative AI
-- ID preservation
-
-
-
-
-<h3>Visit these links!</h3>
 
 [![CV](https://img.shields.io/badge/CV-skyblue?style=for-the-badge)](https://drive.google.com/file/d/16nAN5TtjiAp8X6N0ZRxCr7HHl95tyUXx/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiyoonjeonai/)
